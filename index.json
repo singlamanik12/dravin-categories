@@ -1,98 +1,98 @@
-[
-  {
-    "category_id": "category_7xk2p9lm3t8qwe",
-    "name": "Clothing"
-  },
-  {
-    "category_id": "category_7xk2p9lm3t8opq",
-    "name": "Cosmetics"
-  },
-  {
-    "category_id": "category_j3n8b2vc9m5rty",
-    "name": "Footwear"
-  },
-  {
-    "category_id": "category_p9s4d6hj2k9jbn",
-    "name": "Bags"
-  },
-  {
-    "category_id": "category_p9s4d6hj2k7vbn",
-    "name": "Handbags"
-  },
-  {
-    "category_id": "category_w8q2l5mf1x9zrt",
-    "name": "Television"
-  },
-  {
-    "category_id": "category_l3m7v2b9n1x6qe",
-    "name": "Laptop"
-  },
-  {
-    "category_id": "category_k9b4t2m8v6p1qw",
-    "name": "Mobile Phone"
-  },
-  {
-    "category_id": "category_f2m9k3v7c1x8re",
-    "name": "Headphones"
-  },
-  {
-    "category_id": "category_r7c2b9m5t8l4qw",
-    "name": "Speakers"
-  },
-  {
-    "category_id": "category_y4p9m2k7n3v6cx",
-    "name": "Tablets"
-  },
-
-  {
-    "category_id": "category_e4m8v1k6c9b2tr",
-    "name": "Eyewear"
-  },
-  {
-    "category_id": "category_w6p3m9n1b7x4kv",
-    "name": "Watches"
-  },
-  {
-    "category_id": "category_w6p3m9n9b7x3qv",
-    "name": "Sports & Fitness"
-  },
-  {
-    "category_id": "category_b8c3m1v6n9g4op",
-    "name": "Toys"
-  },
-  {
-    "category_id": "category_g7c4m2v9b1x8qp",
-    "name": "Grocery & Supplies"
-  },
-
-  {
-    "category_id": "category_b8c3m1v6n9x4pq",
-    "name": "Baby Care"
-  },
-
-  {
-    "category_id": "category_h3m9b5v7n2x4pq",
-    "name": "Home Appliances"
-  },
-
-  {
-    "category_id": "category_m8x4b1n6v3r9yt",
-    "name": "Restaurants"
-  },
-  {
-    "category_id": "category_s3q8t7k1n9m4vb",
-    "name": "Menu"
-  },
-  {
-    "category_id": "category_h9k1m5b8t3v2rw",
-    "name": "Car Wash"
-  },
-  {
-    "category_id": "category_v2n6m8c3b1r7qt",
-    "name": "Rentals & Leasing"
-  },
-  {
-    "category_id": "category_b4m9n2x7c3l8re",
-    "name": "Real Estate"
-  }
-]
+{
+  "featuredBusinesses": [],
+  "featuredUsers": [],
+  "categories": [
+    {
+      "category_id": "category_7xk2p9lm3t8qwe",
+      "name": "Clothing"
+    },
+    {
+      "category_id": "category_7xk2p9lm3t8opq",
+      "name": "Cosmetics"
+    },
+    {
+      "category_id": "category_j3n8b2vc9m5rty",
+      "name": "Footwear"
+    },
+    {
+      "category_id": "category_p9s4d6hj2k9jbn",
+      "name": "Bags"
+    },
+    {
+      "category_id": "category_p9s4d6hj2k7vbn",
+      "name": "Handbags"
+    },
+    {
+      "category_id": "category_w8q2l5mf1x9zrt",
+      "name": "Television"
+    },
+    {
+      "category_id": "category_l3m7v2b9n1x6qe",
+      "name": "Laptop"
+    },
+    {
+      "category_id": "category_k9b4t2m8v6p1qw",
+      "name": "Mobile Phone"
+    },
+    {
+      "category_id": "category_f2m9k3v7c1x8re",
+      "name": "Headphones"
+    },
+    {
+      "category_id": "category_r7c2b9m5t8l4qw",
+      "name": "Speakers"
+    },
+    {
+      "category_id": "category_y4p9m2k7n3v6cx",
+      "name": "Tablets"
+    },
+    {
+      "category_id": "category_e4m8v1k6c9b2tr",
+      "name": "Eyewear"
+    },
+    {
+      "category_id": "category_w6p3m9n1b7x4kv",
+      "name": "Watches"
+    },
+    {
+      "category_id": "category_w6p3m9n9b7x3qv",
+      "name": "Sports & Fitness"
+    },
+    {
+      "category_id": "category_b8c3m1v6n9g4op",
+      "name": "Toys"
+    },
+    {
+      "category_id": "category_g7c4m2v9b1x8qp",
+      "name": "Grocery & Supplies"
+    },
+    {
+      "category_id": "category_b8c3m1v6n9x4pq",
+      "name": "Baby Care"
+    },
+    {
+      "category_id": "category_h3m9b5v7n2x4pq",
+      "name": "Home Appliances"
+    },
+    {
+      "category_id": "category_m8x4b1n6v3r9yt",
+      "name": "Restaurants"
+    },
+    {
+      "category_id": "category_s3q8t7k1n9m4vb",
+      "name": "Menu"
+    },
+    {
+      "category_id": "category_h9k1m5b8t3v2rw",
+      "name": "Car Wash"
+    },
+    {
+      "category_id": "category_v2n6m8c3b1r7qt",
+      "name": "Rentals & Leasing"
+    },
+    {
+      "category_id": "category_b4m9n2x7c3l8re",
+      "name": "Real Estate"
+    }
+  ]
+}
